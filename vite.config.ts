@@ -17,9 +17,5 @@ export default defineConfig({
       host: "0.0.0.0",
       allowedHosts: ["quiettrails.onrender.com"],
     },
-
-    build: {
-      ssr: false,
-    },
   },
 });
