@@ -1,4 +1,3 @@
-cat > vite.config.ts << 'EOF'
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 export default defineConfig({
   tanstackStart: {
